@@ -1,5 +1,5 @@
 # presentations
-This repository contains PDF files with presentations showed during our lectures and workshops. If a presentation goes together with a source code presented during a meeting you can find it in a new repository dedicated exclusively to the lecture.
+This repository contains PDF files with presentations showed during our lectures and workshops. If a presentation goes together with source code presented during a meeting you can find it in a new repository dedicated exclusively to the lecture.
 
 Presentations in this repository:
 
